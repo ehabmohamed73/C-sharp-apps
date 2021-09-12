@@ -1,0 +1,20 @@
+E:\Books\leve3.2\schoolHRMangement\obj\Debug\schoolHRMangement.csprojAssemblyReference.cache
+E:\Books\leve3.2\schoolHRMangement\obj\Debug\schoolHRMangement.csproj.CoreCompileInputs.cache
+E:\Books\leve3.2\schoolHRMangement\bin\Debug\schoolHRMangement.exe.config
+E:\Books\leve3.2\schoolHRMangement\bin\Debug\schoolHRMangement.exe
+E:\Books\leve3.2\schoolHRMangement\bin\Debug\schoolHRMangement.pdb
+E:\Books\leve3.2\schoolHRMangement\bin\Debug\AdminstrationAPI.dll
+E:\Books\leve3.2\schoolHRMangement\bin\Debug\AdminstrationAPI.pdb
+E:\Books\leve3.2\schoolHRMangement\obj\Debug\schoolHRMangement.csproj.CopyComplete
+E:\Books\leve3.2\schoolHRMangement\obj\Debug\schoolHRMangement.exe
+E:\Books\leve3.2\schoolHRMangement\obj\Debug\schoolHRMangement.pdb
+E:\Books\leve3.2\schoolHRMangement - Copy\obj\Debug\schoolHRMangement.csprojAssemblyReference.cache
+E:\Books\leve3.2\schoolHRMangement - Copy\obj\Debug\schoolHRMangement.csproj.CoreCompileInputs.cache
+E:\Books\leve3.2\schoolHRMangement - Copy\obj\Debug\schoolHRMangement.exe
+E:\Books\leve3.2\schoolHRMangement - Copy\obj\Debug\schoolHRMangement.pdb
+E:\Books\leve3.2\schoolHRMangement - Copy\bin\Debug\schoolHRMangement.exe.config
+E:\Books\leve3.2\schoolHRMangement - Copy\bin\Debug\schoolHRMangement.exe
+E:\Books\leve3.2\schoolHRMangement - Copy\bin\Debug\schoolHRMangement.pdb
+E:\Books\leve3.2\schoolHRMangement - Copy\bin\Debug\AdminstrationAPI.dll
+E:\Books\leve3.2\schoolHRMangement - Copy\bin\Debug\AdminstrationAPI.pdb
+E:\Books\leve3.2\schoolHRMangement - Copy\obj\Debug\schoolHRMangement.csproj.CopyComplete
